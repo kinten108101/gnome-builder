@@ -16,6 +16,7 @@
               <object class="GtkOverlay" id="overlay">
                 <child>
                   <object class="IdeGrid" id="grid">
+                    <property name="visible">false</property>
                   </object>
                 </child>
               </object>
