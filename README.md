@@ -1,6 +1,6 @@
-# Builder
+# Kinten's Builder
 
-Develop software for GNOME
+The GNOME Builder application but with no text editor area.
 
 ## Helpful Links
 
